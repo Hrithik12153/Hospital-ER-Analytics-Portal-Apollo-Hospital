@@ -19,7 +19,13 @@ Optimize hospital resource allocation and improve patient care efficiency.
 
 ## DASHBOARD
 
+![Image](https://github.com/user-attachments/assets/a01b744d-a7b6-4632-9341-124bacfb5832)
 
+![Image](https://github.com/user-attachments/assets/e8e438ed-187b-4aec-b437-44d8271ba795)
+
+![Image](https://github.com/user-attachments/assets/0cebf523-5c95-4377-afb4-f983b005bae7)
+
+![Image](https://github.com/user-attachments/assets/bc612a17-64ad-467a-99b1-5a76d50aa14a)
 
 ## ⚒️ Tools Used
 
