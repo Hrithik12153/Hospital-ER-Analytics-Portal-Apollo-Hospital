@@ -1,4 +1,4 @@
-# Hospital-ER-Analytics-Portal-Apollo-Hospital
+#  PBI_PROJECT_Hospital-ER-Analytics-Portal-Apollo
 
 ## 🎬**Project Overview:**  
 This **Power BI dashboard** analyzes **9,216 emergency room patient records** over **19 months** to identify key trends in **wait times, peak hours, referrals, patient demographics, and admission patterns.**  
